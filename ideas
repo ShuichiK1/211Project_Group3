@@ -1,0 +1,7 @@
+Ideas:
+Have the lists/vectors be data members in the required class
+
+Have the format for the input file be:
+Assignment_name \t points_scored \t total_possible_points
+
+Have some kind of if statement to separate the assignments into different lists based on the total possible points (for splitting assignments into different categories. If not this maybe separate it by the assignment name? Or maybe have each category be separated by an empty line in the input file?)
