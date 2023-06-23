@@ -1,3 +1,6 @@
+# Documentation
+
+## Summary
 Grade Book / Explanation / How to use
 
 This is a CSC 212 grade book program that has multiple functions for the user.
@@ -44,4 +47,11 @@ After each option is finished, the user will be asked if they want to perform an
 
 The program will end once the user chooses that option.
 
+## Planning
+
+## Compilation Instructions 
+
+## Runtime Instructions
+
+## Sample input/output screenshots
 
