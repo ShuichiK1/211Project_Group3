@@ -25,10 +25,10 @@ will be changed in the original text file itself.
 ### Contribution Table
 | Name | Contribution | Started | Ended |
 | ---  |     ---      |   ---   |  ---  |
-| James |   |   |   |
+| James |worked on program   |6/15   |6/26   |
 | Evan |  |  |  |
 | Shuichi |  |  |  |
-| James |   |   |   |
+| James |worked on recording   |6/23   |6/23   |
 | Evan |  |  |  |
 | Shuichi |  |  |  |
 
