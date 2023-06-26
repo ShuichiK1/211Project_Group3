@@ -1,0 +1,21 @@
+computer Science
+
+labs
+lab1 12 25
+lab2 25 25
+lab3 0 25
+lab4 12 25
+lab5 2 25
+lab6 11 25
+lab7 12 25
+lab8 25 25
+
+homework
+hw1 55 100
+hw2 95 100
+hw3 85 100
+hw4 45 100
+
+tests
+test1 100 200
+test2 150 200
