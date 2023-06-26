@@ -26,10 +26,10 @@ will be changed in the original text file itself.
 | Name | Contribution | Started | Ended |
 | ---  |     ---      |   ---   |  ---  |
 | James |worked on program   |6/15   |6/26   |
-| Evan |  |  |  |
+| Evan | Flow chart/Psuedo code | 6/15  | 6/17 |
 | Shuichi |  |  |  |
 | James |worked on recording   |6/23   |6/23   |
-| Evan |  |  |  |
+| Evan | Readme | 6/15 | 6/26 |
 | Shuichi |  |  |  |
 
 ## Planning
