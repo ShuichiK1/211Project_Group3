@@ -1,7 +1,6 @@
 # Documentation
 
 ## Summary
-Grade Book / Explanation / How to use
 
 This is a CSC 212 grade book program that has multiple functions for the user.
 Our program reads in a text file. This information will be saved into a 2d vector for easier access to information.
