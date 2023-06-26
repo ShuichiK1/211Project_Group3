@@ -24,5 +24,13 @@ Method that prints output to terminal
     - Method that pulls from vectors depending on process
     - Accounts for point system to calculate averages
 
-  
-  
+-----------------------------------------------
+
+------------- | Gradebook.h | -----------------
+
+Vector for numerical grade
+Vector for letter grade
+Vector for categories
+...
+
+-----------------------------------------------  
