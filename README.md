@@ -47,6 +47,13 @@ After each option is finished, the user will be asked if they want to perform an
 
 The program will end once the user chooses that option.
 
+### Contribution Table
+| Name | Contribution | Started | Ended |
+| ---  |     ---      |   ---   |  ---  |
+| James |   |   |   |
+| Evan |  |  |  |
+| Shuichi |  |  |  |
+
 ## Planning
 
 ## Compilation Instructions 
@@ -81,7 +88,7 @@ For the first option, we can choose to display the status of individual tasks. W
 
 ![alt text](https://github.com/ShuichiK1/211Project_Group3/blob/main/images/individual_search1.png)
 
-The result is given as a string of different information. From left to right, you can see the task nae, points received, earnable points, calculated numerical grade, and the corresponding letter grade.
+The result is given as a string of different information. From left to right, you can see the task name, points received, earnable points, calculated numerical grade, and the corresponding letter grade.
 
 ![alt text](https://github.com/ShuichiK1/211Project_Group3/blob/main/images/individual_search2.png)
 
