@@ -27,10 +27,10 @@ will be changed in the original text file itself.
 | ---  |     ---      |   ---   |  ---  |
 | James |worked on program   |6/15   |6/26   |
 | Evan | Flow chart/Psuedo code | 6/15  | 6/17 |
-| Shuichi |  |  |  |
+| Shuichi | Readme/Supplementary files | 6/15 | 6/26 |
 | James |worked on recording   |6/23   |6/23   |
 | Evan | Readme | 6/15 | 6/26 |
-| Shuichi |  |  |  |
+| Shuichi | Psuedocode \ Ideas | 6/26 | 6/26 |
 
 ## Planning
 For the planning stage, we had decisions such as whether this program would be universal. There were other design
