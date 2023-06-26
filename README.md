@@ -36,6 +36,9 @@ The program will end once the user chooses that option.
 | James |   |   |   |
 | Evan |  |  |  |
 | Shuichi |  |  |  |
+| James |   |   |   |
+| Evan |  |  |  |
+| Shuichi |  |  |  |
 
 ## Planning
 
