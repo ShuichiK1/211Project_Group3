@@ -33,6 +33,17 @@ will be changed in the original text file itself.
 | Shuichi |  |  |  |
 
 ## Planning
+For the planning stage, we had decisions such as whether this program would be universal. There were other design
+decisions such as what files are taken in. 
+
+We wanted our program to be universal but decided to make it towards 212 first.
+Things we wanted to add were being able to manipulate the course name as well as max grade amounts 
+for assignments, labs, etc.
+
+An important part of the planning process was making sure the program functions as stated in the directions.
+We chose to create a flowchart to illustrate choices in the program. The pseudocode would then be created later. 
+After that, the classes and methods were created to then be implemented later.
+
 
 ## Compilation Instructions 
 Before you can compile the program, you must first download the relevant source files (**main.cpp**, **gradebook.cpp**, and **gradebook.h**). Any IDE can be used as long as the C++ language standard is set to C++11.
