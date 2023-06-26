@@ -2,11 +2,13 @@
 
 ## Summary
 
-This is a CSC 212 grade book program that has multiple functions for the user.
-Our program reads in a text file. This information will be saved into a 2d vector for easier access to information.
+This is a CSC 212 grade book program that is able to perform multiple
+things for the user.
+They are able to interact, as well as read information about their current grade.
+
+Our program works by getting grade information through a text file.
+This information will be saved in the program.
 We have templates on specific text file formats that work with the program.
-
-
 
 The current functions are:
 1. Outputting a certain assignment, lab, or project grade.
@@ -14,21 +16,11 @@ The current functions are:
 3. Modifying the grades in the file.
 4. Outputting all changes to the file
 
-The information will be outputted into the terminal so the user can
-read the information.
+Most of the information will be outputted to the terminal for
+the user to read. Other information such as changes
+Ex. Updating a grade,
+will be changed in the original text file itself.
 
-
-
-How to use:
-First, the user must run the program. 
-It will then prompt the name of the file 
-- If the wrong file is typed or not found, it will then ask again.
-
-Next, there will be several options displayed which the user can pick by typing in a number
-
-
-
-The program will end once the user chooses that option.
 
 ### Contribution Table
 | Name | Contribution | Started | Ended |
