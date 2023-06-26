@@ -50,6 +50,17 @@ The program will end once the user chooses that option.
 ## Planning
 
 ## Compilation Instructions 
+Before you can compile the program, you must first download the relevant source files (**main.cpp**, **gradebook.cpp**, and **gradebook.h**). Any IDE can be used as long as the C++ language standard is set to C++11.
+
+We opted to use a text file to hold all of the grade values. The text file must be structured as shown below in order for the program to run correctly. If you are creating it from scratch, it is important to include any whitespaces as shown - or you can use the example datasets provided as template.
+
+![alt text](https://github.com/ShuichiK1/211Project_Group3/blob/main/images/dataset_example.png)
+
+For the program to read and write to the file, it must be stored in the working directory. The name of the file must be passed through as a command-line argument as shown. 
+
+![alt text](https://github.com/ShuichiK1/211Project_Group3/blob/main/images/cla_example.png)
+
+After which, you can run and compile as normal.
 
 ## Runtime Instructions
 
